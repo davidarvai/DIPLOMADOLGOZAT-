@@ -1,7 +1,4 @@
-# Agytumor részeinek felismerése és 
-szegmentálása multispektrális MRI 
-felvételekből mély tanulású neurális 
-hálózatokkal 
+# Agytumor részeinek felismerése és szegmentálása multispektrális MRI felvételekből mély tanulású neurális hálózatokkal 
 
 Ez a projekt az agytumorok felismerését és szegmentálását valósítja meg multispektrális MRI felvételeken mély tanulású neurális hálózatok és gépi tanulási modellek segítségével. 
 Az implementáció során UNet és XGBoost algoritmusokat használunk a tumor területeinek pontos azonosítására.
